@@ -1,8 +1,8 @@
-# Welcome to nbtbiz! 👋
+# Welcome to Nbt Business Solutions! 👋
 
 ## About Us
 
-nbtbiz is a forward-thinking company dedicated to providing innovative solutions for modern challenges. We specialize in ...
+At Nbt Business Solutions, we stand out as the premier digital marketing agency in Kerala. More than just a digital marketing company, our team of marketers, creatives, researchers, and tech enthusiasts collaborates to tackle business challenges. Our mission is simple: guide brands to uncover their purpose and establish a lasting path to success. Nbt Business Solutions, your top-tier digital marketing agency in Kerala.
 
 ## Our Interests
 
@@ -23,6 +23,12 @@ You can reach us at ... We're always open to discussions, collaborations, and op
 ## Pronouns
 
 Our company uses the pronouns ...
+
+## Fun Fact
+
+Did you know? ...
+
+
 
 ## Fun Fact
 
